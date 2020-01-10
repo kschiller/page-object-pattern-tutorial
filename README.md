@@ -2,5 +2,5 @@
     @ 2016 Kim Schiller - http://www.kimschiller.com
 ------------------------------------------------------------------
 This repo contains examples for my Page Object Pattern tutorial.
-You can find the tutorial on [hack.guides() by Pluralsight](http://tutorials.pluralsight.com/software-engineering-best-practices/getting-started-with-page-object-pattern-for-your-selenium-tests).
+You can find the tutorial on [hack.guides() by Pluralsight](https://www.pluralsight.com/guides/getting-started-with-page-object-pattern-for-your-selenium-tests).
 
